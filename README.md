@@ -24,3 +24,4 @@
     - git checkout [branch name] -> This command is used to switch from one branch to another.
     - git checkout -b [branch name]  -> This command creates a new branch and also switches to it.
   - [x] git revert (id) -> Revert changes of commit by creating a new commit 
+  - [x] git resert --hard [id] -> Undo changes by deleting all commits sice [id]
